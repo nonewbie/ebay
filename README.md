@@ -1,4 +1,4 @@
-# ebay
+# ebay-西电二手交易平台
 xidian university second-hand shop on line 
 environment configure:
 	win7: eclipse + Tomcat + jdk
